@@ -1,1 +1,1 @@
-- Just a repository for learning C again
+- Just a repository for learning C again 🍀🍀🍀
